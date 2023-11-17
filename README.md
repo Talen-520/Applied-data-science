@@ -4,7 +4,7 @@ Project 1 - supervised learning
 
 project 2 - unsupervised learning and regression
 
-project 3 - Deep learning
+Final research - Time series, Myocardial infarction complications
 
 Course Note : 
 
