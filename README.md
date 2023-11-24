@@ -59,7 +59,7 @@ conda activate tf-env
 install tensorflow and Kera, you can skip kera installation, just make sure Keras version is same with your tensorflow:
 ```
 pip install tensorflow==2.6.0
-pil install keras==2.6.0 
+pip install keras==2.6.0 
 ```
 
 test
